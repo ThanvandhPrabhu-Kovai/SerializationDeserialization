@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tqx+QP2X0cZxUrxiJs9RbeE8RFzKH7f41R9YMUYqxpfmVZHH/UMEeHTFfWvRRkWQ/CM+yXIx8Fz85f3Qzrp3yw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Kovai.Co\\Internship\\DotNet\\Console\\Serialization_Deserialization\\Serialization_Deserialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thanvandh Prabhu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
